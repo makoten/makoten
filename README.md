@@ -8,7 +8,7 @@ Actively enhancing my skills in C#, .NET 8, and Golang.
 
 ## 🚀 Goals:
 - Becoming a backend systems expert
-- build high-performance, distributed, data-intensive applications
+- Build high-performance, distributed, data-intensive applications
 - Contributing to open-source projects
 - Collaborating with like-minded developers for a positive feedback loop of creativity
 

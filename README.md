@@ -3,9 +3,6 @@
 I'm Nathan, a passionate software engineer with 2 years of full-stack experience.
 I'm dedicated to crafting efficient software and tools.
 
-## ✨ Current Focus:
-Golang!
-
 ## 🚀 Goals:
 - Become a backend systems expert
 - Build and maintain high-performance, distributed, data-intensive applications
